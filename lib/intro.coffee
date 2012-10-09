@@ -1,0 +1,4 @@
+# 
+# clientside javascript temaplte
+#
+
